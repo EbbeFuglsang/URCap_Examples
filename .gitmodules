@@ -1,3 +1,6 @@
 [submodule "HelloWorldSwing"]
 	path = HelloWorldSwing
 	url = https://github.com/UniversalRobots/HelloWorldSwing.git
+[submodule "MyDaemonSwing"]
+	path = MyDaemonSwing
+	url = https://github.com/UniversalRobots/MyDaemonSwing.git
