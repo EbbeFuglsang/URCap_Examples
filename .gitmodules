@@ -13,3 +13,6 @@
 [submodule "CycleCounterSwing"]
 	path = CycleCounterSwing
 	url = https://github.com/UniversalRobots/CycleCounterSwing.git
+[submodule "GripAndReleaseSwing"]
+	path = GripAndReleaseSwing
+	url = https://github.com/UniversalRobots/GripAndReleaseSwing.git
