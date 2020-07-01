@@ -7,3 +7,6 @@
 [submodule "EllipseSwing"]
 	path = EllipseSwing
 	url = https://github.com/UniversalRobots/EllipseSwing.git
+[submodule "CreateFeatureSwing"]
+	path = CreateFeatureSwing
+	url = https://github.com/UniversalRobots/CreateFeatureSwing.git
