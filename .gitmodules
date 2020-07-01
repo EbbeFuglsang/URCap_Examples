@@ -31,3 +31,6 @@
 [submodule "NodeOrderingSwing"]
 	path = NodeOrderingSwing
 	url = https://github.com/UniversalRobots/NodeOrderingSwing.git
+[submodule "PickOrPlaceSwing"]
+	path = PickOrPlaceSwing
+	url = https://github.com/UniversalRobots/PickOrPlaceSwing.git
