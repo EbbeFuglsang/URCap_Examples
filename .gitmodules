@@ -28,3 +28,6 @@
 [submodule "MyToolbar"]
 	path = MyToolbar
 	url = https://github.com/UniversalRobots/MyToolbar.git
+[submodule "NodeOrderingSwing"]
+	path = NodeOrderingSwing
+	url = https://github.com/UniversalRobots/NodeOrderingSwing.git
