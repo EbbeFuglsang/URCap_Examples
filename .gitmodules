@@ -19,3 +19,6 @@
 [submodule "IdleTimeSwing"]
 	path = IdleTimeSwing
 	url = https://github.com/UniversalRobots/IdleTimeSwing.git
+[submodule "LocalizationSwing"]
+	path = LocalizationSwing
+	url = https://github.com/UniversalRobots/LocalizationSwing.git
