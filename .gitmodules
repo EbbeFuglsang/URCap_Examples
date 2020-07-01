@@ -37,3 +37,6 @@
 [submodule "ScriptFunctionSwing"]
 	path = ScriptFunctionSwing
 	url = https://github.com/UniversalRobots/ScriptFunctionSwing.git
+[submodule "ToolChangerSwing"]
+	path = ToolChangerSwing
+	url = https://github.com/UniversalRobots/ToolChangerSwing.git
