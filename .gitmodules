@@ -40,3 +40,6 @@
 [submodule "ToolChangerSwing"]
 	path = ToolChangerSwing
 	url = https://github.com/UniversalRobots/ToolChangerSwing.git
+[submodule "ToolIOControlSwing"]
+	path = ToolIOControlSwing
+	url = https://github.com/UniversalRobots/ToolIOControlSwing.git
