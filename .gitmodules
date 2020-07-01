@@ -46,3 +46,6 @@
 [submodule "UserInput"]
 	path = UserInput
 	url = https://github.com/UniversalRobots/UserInput.git
+[submodule "CoordinateMapHTML"]
+	path = CoordinateMapHTML
+	url = https://github.com/UniversalRobots/CoordinateMapHTML.git
