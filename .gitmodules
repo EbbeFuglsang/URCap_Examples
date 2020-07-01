@@ -34,3 +34,6 @@
 [submodule "PickOrPlaceSwing"]
 	path = PickOrPlaceSwing
 	url = https://github.com/UniversalRobots/PickOrPlaceSwing.git
+[submodule "ScriptFunctionSwing"]
+	path = ScriptFunctionSwing
+	url = https://github.com/UniversalRobots/ScriptFunctionSwing.git
