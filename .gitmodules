@@ -4,3 +4,6 @@
 [submodule "MyDaemonSwing"]
 	path = MyDaemonSwing
 	url = https://github.com/UniversalRobots/MyDaemonSwing.git
+[submodule "EllipseSwing"]
+	path = EllipseSwing
+	url = https://github.com/UniversalRobots/EllipseSwing.git
