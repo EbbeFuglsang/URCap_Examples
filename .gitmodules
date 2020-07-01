@@ -25,3 +25,6 @@
 [submodule "MoveUntilDetectionSwing"]
 	path = MoveUntilDetectionSwing
 	url = https://github.com/UniversalRobots/MoveUntilDetectionSwing.git
+[submodule "MyToolbar"]
+	path = MyToolbar
+	url = https://github.com/UniversalRobots/MyToolbar.git
