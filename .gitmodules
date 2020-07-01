@@ -16,3 +16,6 @@
 [submodule "GripAndReleaseSwing"]
 	path = GripAndReleaseSwing
 	url = https://github.com/UniversalRobots/GripAndReleaseSwing.git
+[submodule "IdleTimeSwing"]
+	path = IdleTimeSwing
+	url = https://github.com/UniversalRobots/IdleTimeSwing.git
