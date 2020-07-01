@@ -43,3 +43,6 @@
 [submodule "ToolIOControlSwing"]
 	path = ToolIOControlSwing
 	url = https://github.com/UniversalRobots/ToolIOControlSwing.git
+[submodule "UserInput"]
+	path = UserInput
+	url = https://github.com/UniversalRobots/UserInput.git
