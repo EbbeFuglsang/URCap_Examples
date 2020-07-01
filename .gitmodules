@@ -10,3 +10,6 @@
 [submodule "CreateFeatureSwing"]
 	path = CreateFeatureSwing
 	url = https://github.com/UniversalRobots/CreateFeatureSwing.git
+[submodule "CycleCounterSwing"]
+	path = CycleCounterSwing
+	url = https://github.com/UniversalRobots/CycleCounterSwing.git
