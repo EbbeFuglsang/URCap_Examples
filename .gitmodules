@@ -22,3 +22,6 @@
 [submodule "LocalizationSwing"]
 	path = LocalizationSwing
 	url = https://github.com/UniversalRobots/LocalizationSwing.git
+[submodule "MoveUntilDetectionSwing"]
+	path = MoveUntilDetectionSwing
+	url = https://github.com/UniversalRobots/MoveUntilDetectionSwing.git
