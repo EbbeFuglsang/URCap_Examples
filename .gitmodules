@@ -64,3 +64,6 @@
 [submodule "LocalizationHTML"]
 	path = LocalizationHTML
 	url = https://github.com/UniversalRobots/LocalizationHTML.git
+[submodule "MyDaemonHTML"]
+	path = MyDaemonHTML
+	url = https://github.com/UniversalRobots/MyDaemonHTML.git
