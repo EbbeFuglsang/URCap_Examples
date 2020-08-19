@@ -58,3 +58,6 @@
 [submodule "HelloWorldHTML"]
 	path = HelloWorldHTML
 	url = https://github.com/UniversalRobots/HelloWorldHTML.git
+[submodule "IdleTimeHTML"]
+	path = IdleTimeHTML
+	url = https://github.com/UniversalRobots/IdleTimeHTML.git
