@@ -91,3 +91,6 @@
 [submodule "AdvancedScrewdriver"]
 	path = AdvancedScrewdriver
 	url = https://github.com/UniversalRobots/AdvancedScrewdriver.git
+[submodule "CustomScrewdriver"]
+	path = CustomScrewdriver
+	url = https://github.com/UniversalRobots/CustomScrewdriver.git
