@@ -61,3 +61,6 @@
 [submodule "IdleTimeHTML"]
 	path = IdleTimeHTML
 	url = https://github.com/UniversalRobots/IdleTimeHTML.git
+[submodule "LocalizationHTML"]
+	path = LocalizationHTML
+	url = https://github.com/UniversalRobots/LocalizationHTML.git
