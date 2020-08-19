@@ -55,3 +55,6 @@
 [submodule "EllipseHTML"]
 	path = EllipseHTML
 	url = https://github.com/UniversalRobots/EllipseHTML.git
+[submodule "HelloWorldHTML"]
+	path = HelloWorldHTML
+	url = https://github.com/UniversalRobots/HelloWorldHTML.git
