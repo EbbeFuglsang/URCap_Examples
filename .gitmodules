@@ -67,3 +67,6 @@
 [submodule "MyDaemonHTML"]
 	path = MyDaemonHTML
 	url = https://github.com/UniversalRobots/MyDaemonHTML.git
+[submodule "NodeOrderingHTML"]
+	path = NodeOrderingHTML
+	url = https://github.com/UniversalRobots/NodeOrderingHTML.git
