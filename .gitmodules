@@ -82,3 +82,6 @@
 [submodule "AdvancedGripper"]
 	path = AdvancedGripper
 	url = https://github.com/UniversalRobots/AdvancedGripper.git
+[submodule "SimpleGripper"]
+	path = SimpleGripper
+	url = https://github.com/UniversalRobots/SimpleGripper.git
