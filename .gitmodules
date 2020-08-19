@@ -79,3 +79,6 @@
 [submodule "CustomGripperSetup"]
 	path = CustomGripperSetup
 	url = https://github.com/UniversalRobots/CustomGripperSetup.git
+[submodule "AdvancedGripper"]
+	path = AdvancedGripper
+	url = https://github.com/UniversalRobots/AdvancedGripper.git
