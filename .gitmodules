@@ -52,3 +52,6 @@
 [submodule "CycleCounterHTML"]
 	path = CycleCounterHTML
 	url = https://github.com/UniversalRobots/CycleCounterHTML.git
+[submodule "EllipseHTML"]
+	path = EllipseHTML
+	url = https://github.com/UniversalRobots/EllipseHTML.git
