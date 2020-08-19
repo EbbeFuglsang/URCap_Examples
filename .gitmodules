@@ -73,3 +73,6 @@
 [submodule "PickOrPlaceHTML"]
 	path = PickOrPlaceHTML
 	url = https://github.com/UniversalRobots/PickOrPlaceHTML.git
+[submodule "ScriptFunctionHTML"]
+	path = ScriptFunctionHTML
+	url = https://github.com/UniversalRobots/ScriptFunctionHTML.git
