@@ -76,3 +76,6 @@
 [submodule "ScriptFunctionHTML"]
 	path = ScriptFunctionHTML
 	url = https://github.com/UniversalRobots/ScriptFunctionHTML.git
+[submodule "CustomGripperSetup"]
+	path = CustomGripperSetup
+	url = https://github.com/UniversalRobots/CustomGripperSetup.git
