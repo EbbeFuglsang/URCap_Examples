@@ -85,3 +85,6 @@
 [submodule "SimpleGripper"]
 	path = SimpleGripper
 	url = https://github.com/UniversalRobots/SimpleGripper.git
+[submodule "SimpleScrewdriver"]
+	path = SimpleScrewdriver
+	url = https://github.com/UniversalRobots/SimpleScrewdriver.git
