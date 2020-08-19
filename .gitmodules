@@ -49,3 +49,6 @@
 [submodule "CoordinateMapHTML"]
 	path = CoordinateMapHTML
 	url = https://github.com/UniversalRobots/CoordinateMapHTML.git
+[submodule "CycleCounterHTML"]
+	path = CycleCounterHTML
+	url = https://github.com/UniversalRobots/CycleCounterHTML.git
